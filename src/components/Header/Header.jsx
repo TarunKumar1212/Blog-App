@@ -43,7 +43,7 @@ function Header() {
         <nav className='flex'>
           <div className='mr-4'>
             <Link to='/'>
-              <logo width='70px'   />
+              <logo width='70px'/>
               
               </Link>
           </div>
