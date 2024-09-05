@@ -10,6 +10,6 @@ function AddPost() {
     </div>
   )
 }
-// import { Container } from '../components'
+
 
 export default AddPost
